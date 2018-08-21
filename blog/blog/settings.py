@@ -127,3 +127,5 @@ STATICFILES_DIRS = (
         'static',
     ),
 )
+
+LOGIN_REDIRECT_URL = '/blogapp/index'
